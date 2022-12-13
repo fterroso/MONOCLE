@@ -9,7 +9,7 @@
   "author": "Manuel NB",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mkdir": "0.0.2",
     "record-screen": "^3.16.0",
     "socket.io": "^2.3.0",
